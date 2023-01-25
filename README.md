@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Valeria-Pallas
 - 👀 I’m interested in web outils
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on everithing I can faire face.
+- 💞️ I’m looking to collaborate on space tasks
 - 📫 How to reach me by email v.pallas@outlook.com
 
 <!---
