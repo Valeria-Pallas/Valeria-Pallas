@@ -1,0 +1,15 @@
+[submodule "dorfiles"]
+	path = dorfiles
+	url = https://github.com/Valeria-Pallas/dotfiles.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/Valeria-Pallas.git
+[submodule "fullstack-challenges"]
+	path = fullstack-challenges
+	url = https://github.com/Valeria-Pallas.git
+[submodule "rails-stupid-coaching"]
+	path = rails-stupid-coaching
+	url = https://github.com/Valeria-Pallas.git
+[submodule "setup"]
+	path = setup
+	url = https://github.com/Valeria-Pallas.git
